@@ -1,10 +1,10 @@
 Advnaced Codeigniter CRUD is a small Task CRUD.
 
 Technologies used:
-PHP
-Codeigniter
-MySql
-jQuery
+PHP,
+Codeigniter,
+MySql,
+jQuery,
 Bootstrap
 
 How it works?
